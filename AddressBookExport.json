@@ -1,0 +1,12 @@
+[
+  {
+    "firstname": "Rishabh",
+    "lastname": "Gupta",
+    "address": "Agra cantt",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "zip": "12456", 
+    "phonenumber": "7906552015",
+    "emailid": "rish@gmail.com"
+  }
+]
