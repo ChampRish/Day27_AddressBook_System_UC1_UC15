@@ -1,0 +1,10 @@
+firstname,lastname,address,city,state,zip,phonenumber,emailid
+Rishabh,Gupta,Agra cantt,Agra,UttarPradesh,12345,7906552015,gguptarishabh82@gmail.com
+firstname: Rishabh
+lastname: Gupta
+address: Agra cantt
+city: Agra
+state: UttarPradesh
+zip: 12345
+phoneno: 7906552015
+email: gguptarishabh82@gmail.com
